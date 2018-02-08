@@ -11,4 +11,3 @@ ddd
 eee
 fff
 ggg
-bbb
